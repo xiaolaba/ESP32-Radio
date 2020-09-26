@@ -1,17 +1,9 @@
 ### install the tool first 
-reference https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/windows.md  
-or uses batch file following,
-download git & install first https://github.com/git/git/releases or https://git-scm.com/downloads
-this is default path of installation C:\Program Files\Git
+
+Arduino preference.txt, borad manager
 
 ```
-mkdir %userprofile%\Documents\Arduino\hardware\espressif\esp32  
-cd %userprofile%\Documents\Arduino\hardware\espressif\esp32  
-git clone https://github.com/espressif/arduino-esp32  
-git submodule update --init --recursive
-cd arduino-esp32\tools
-get.exe
-
+https://dl.espressif.com/dl/package_esp32_index.json
 
 ```
 
