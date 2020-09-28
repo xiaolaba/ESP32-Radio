@@ -4,7 +4,7 @@ Arduino preference.txt, borad manager
 
 ```
 https://dl.espressif.com/dl/package_esp32_index.json
-
+https://github.com/knolleary/pubsubclient/blob/master/library.json
 ```
 
 
